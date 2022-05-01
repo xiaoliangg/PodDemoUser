@@ -1,0 +1,16 @@
+PODS:
+  - YLiangTool (0.0.3)
+
+DEPENDENCIES:
+  - YLiangTool (= 0.0.3)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - YLiangTool
+
+SPEC CHECKSUMS:
+  YLiangTool: 72d4edb0f1039a747f7b4346002a72c789d80f13
+
+PODFILE CHECKSUM: b7afd7091534de22e65cb4f4f5c087482292e1af
+
+COCOAPODS: 1.11.2
